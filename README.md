@@ -12,7 +12,7 @@ All the stylizations are self-made, only using the technology listed below.
 
 ### Overall picture
 
-[Project Screenshot]( https://github.com/MarceloPasquiniB/reactjs-desktop-tip-calculator/blob/master/desktop-tip-calculator.png)
+![Project Screenshot]( https://github.com/MarceloPasquiniB/reactjs-desktop-tip-calculator/blob/master/desktop-tip-calculator.png)
 
 ## 🚫 System validations
 
