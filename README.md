@@ -6,11 +6,11 @@
 This app has as its main function a common action that people do when they meet friends and family at a restaurant or a bar: split the Bill for how many individuals are in the party, highlighting the tip amount per person. 
 All the stylizations are self-made, only using the technology listed below.
 
-### Netlify link
+### Project link
 
 [PROJECT LINK](https://mpasquini-desktop-tip-calculator.netlify.app/)
 
-### Overall picture
+### Screenshot
 
 ![Project Screenshot]( https://github.com/MarceloPasquiniB/reactjs-desktop-tip-calculator/blob/master/desktop-tip-calculator.png)
 
